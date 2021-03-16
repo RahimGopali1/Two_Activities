@@ -1,6 +1,6 @@
 # Two_Activities
 
-Task 1 and 2
+<strong>Task 1 and 2</strong>
 
 <br>
 <img src="Task-2a.png" width="250" height="400">
