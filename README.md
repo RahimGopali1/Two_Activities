@@ -24,9 +24,9 @@ Task 4
 
 Coding challenge
 <br>
-<img src="Codingchalleneg1.png" width="250" height="400">
+<img src="Codingchallenge1.png" width="250" height="400">
 <br>
-<img src="codingchalleneg2.png" width="250" height="400">
+<img src="codingchallenge2.png" width="250" height="400">
 <br>
 
 Homework
