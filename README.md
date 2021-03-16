@@ -1,12 +1,9 @@
 # Two_Activities
 
-<br>Task 
+Task 1 and 2
 
 <br>
 <img src="Task-2a.png" width="250" height="400">
-<br>
-
-Task 2
 <br>
 <img src="Task-2b.png" width="250" height="400">
 <br>
