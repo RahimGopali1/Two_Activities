@@ -1,6 +1,6 @@
 # Two_Activities
 
-Task 1
+<br>Task 
 
 <br>
 <img src="Task-2a.png" width="250" height="400">
@@ -30,7 +30,7 @@ Coding challenge
 <img src="codingchallenge2.png" width="250" height="400">
 <br>
 
-Homework
+Homework</b>
 <br>
 <img src="Homework1.png" width="250" height="400">
 <br>
